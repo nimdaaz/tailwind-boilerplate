@@ -11,6 +11,10 @@ module.exports = {
             container: {
                 center: true,
             },
+            screens: {},
+        },
+        fontFamily: {
+            'body': ['"font-sans"'],
         },
     },
     variants: {
