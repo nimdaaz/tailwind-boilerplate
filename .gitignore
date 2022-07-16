@@ -1,3 +1,5 @@
 node_modules
 dist
-/.idea
+/.idea/modules.xml
+/.idea/tailwind-boilerplate.iml
+/.idea/vcs.xml
